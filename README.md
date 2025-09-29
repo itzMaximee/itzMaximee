@@ -1,5 +1,5 @@
 # itzMaxime ⚡
-Welcome to Stalker to my shitty area  
+Welcome Stalker to my shitty area  
 
 ---
 
@@ -12,10 +12,10 @@ Welcome to Stalker to my shitty area
 ---
 
 ## 🪄 About Me
-✨ Creating bugs since 2010  
-📚 Currently learning: Nothing at Hogwarts  
-🎯 Goals: Don’t die before Voldemort returns  
-🎲 Fun fact: My Patronus is probably a bug 🐞  
+✨ Creating bugs since Birth  
+📚 Currently learning: Nothing   
+🎯 Goals: Don’t die 
+🎲 Fun fact: I like doing shitty stuff
 
 ---
 
@@ -66,10 +66,10 @@ Welcome to Stalker to my shitty area
 ---
 
 ## 🏰 Hogwarts Profile
-- House: **Slytherin** 🐍  
-- Wand: 13" Yew, Phoenix feather core  
-- Favorite Spell: *Expelliarmus!*  
-- Hidden Talent: Casting bugs into my codebase  
+- House: **hufflepuff** 🦡  
+- Favorite Animal: Phoenix 🐦‍🔥
+- Favorite Spell: *Expecto Patronum!*  
+- Hidden Talent: Summoning fire into my codebase  
 
 ---
 
