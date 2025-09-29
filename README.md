@@ -1,17 +1,14 @@
-# itzMaxime ⚡
-Welcome Stalker to my shitty area  
-
----
-
 <h1 align="left">Hello There 👋</h1>
 
-<p align="right">
-  <img src="YOUR_GIF_PATH/hello.gif" height="200" alt="Hello there gif" />
-</p>
+###
 
 <h4 align="left">Itz Maxime and I'm Dumb af</h4>
 
----
+###
+
+<p align="right">
+  <img src="https://c.tenor.com/Tsob5aHiS3UAAAAd/tenor.gif" height="200" alt="Hello There gif" />
+</p>
 
 ## 🪄 About Me
 ✨ Creating bugs since Birth  
@@ -50,11 +47,11 @@ Welcome Stalker to my shitty area
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ItzMaximee/ItzMaximee/output/snake.svg" alt="Snake animation" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation in dark mode" />
 </p>
+
 
 ---
 
@@ -65,7 +62,7 @@ Welcome Stalker to my shitty area
 - Hidden Talent: Summoning fire into my codebase  
 
 <p align="right">
-  <img src="YOUR_GIF_PATH/naruto.gif" height="179" alt="Naruto gif" />
+  <img src="https://c.tenor.com/opEBWw0uddoAAAAC/tenor.gif" height="179" alt="Naruto gif" />
 </p>
 
 ---
