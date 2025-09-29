@@ -1,29 +1,25 @@
-# itzMaxime
-Welcome to Stalker to my shitty area
+# itzMaxime ⚡
+Welcome to Stalker to my shitty area  
+
+---
+
 <h1 align="left">Hello There 👋</h1>
 
-###
-
-<img align="right" height="200" src="https://c.tenor.com/Tsob5aHiS3UAAAAd/tenor.gif"  />
-
-###
+<img align="right" height="200" src="https://c.tenor.com/Tsob5aHiS3UAAAAd/tenor.gif" />
 
 <h4 align="left">Itz Maxime and I'm Dumb af</h4>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🪄 About Me
+✨ Creating bugs since 2010  
+📚 Currently learning: Nothing at Hogwarts  
+🎯 Goals: Don’t die before Voldemort returns  
+🎲 Fun fact: My Patronus is probably a bug 🐞  
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning Nothing<br>🎯 Goals: Don't die<br>🎲 Fun fact: I like doing shitty stuff</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+## ⚡ Wizardry & Coding Spells
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -52,30 +48,31 @@ Welcome to Stalker to my shitty area
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img align="right" height="179" src="https://c.tenor.com/opEBWw0uddoAAAAd/tenor.gif"  />
-
-###
+<img align="right" height="179" src="https://c.tenor.com/opEBWw0uddoAAAAd/tenor.gif" />
 
 <img src="https://raw.githubusercontent.com/ItzMaximee/ItzMaximee/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-<br clear="both">
-
+## 🎵 Magic on Spotify
 <div align="left">
   <a href="https://open.spotify.com/user/Maxime">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Maxime&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
+---
+
+## 🏰 Hogwarts Profile
+- House: **Slytherin** 🐍  
+- Wand: 13" Yew, Phoenix feather core  
+- Favorite Spell: *Expelliarmus!*  
+- Hidden Talent: Casting bugs into my codebase  
+
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzMaximee.ItzMaximee&left_color=black&right_color=darkred&left_text=Number%20of%20%20Joe%20Goldbergs%20on%20my%20acc"  />
 </div>
-
-###
