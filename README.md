@@ -56,14 +56,6 @@ Welcome Stalker to my shitty area
 
 ---
 
-## 🎵 Magic on Spotify
-<div align="left">
-  <a href="https://open.spotify.com/user/Maxime">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Maxime&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
 
 ## 🏰 Hogwarts Profile
 - House: **hufflepuff** 🦡  
