@@ -17,7 +17,7 @@ Welcome Stalker to my shitty area
 🎯 Goals: Don’t die 
 🎲 Fun fact: I like doing shitty stuff
 
----
+
 
 ## ⚡ Wizardry & Coding Spells
 <div align="left">
