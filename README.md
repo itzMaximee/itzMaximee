@@ -1,57 +1,42 @@
 # itzMaxime ⚡
-Welcome Stalker to my shitty area  
+Welcome Stalker to my shitty area
 
-<h1 align="left">Hello There 👋</h1>
+## Hello There 👋
+Itz Maxime and I'm Dumb af  
 
-<img align="right" height="200" src="https://c.tenor.com/Tsob5aHiS3UAAAAd/tenor.gif" />
+### 🪄 About Me
+- ✨ Creating bugs since Birth  
+- 📚 Currently learning: Nothing  
+- 🎯 Goals: Don’t die  
+- 💀 Fun fact: I like doing shitty stuff  
 
-<h4 align="left">Itz Maxime and I'm Dumb af</h4>
+### ⚡ Wizardry & Coding Spells
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🪄 About Me
-✨ Creating bugs since Birth  
-📚 Currently learning: Nothing   
-🎯 Goals: Don’t die  
-🎲 Fun fact: I like doing shitty stuff  
+[Snake animation](https://github.com/itzMaxime/itzMaxime/blob/output/github-contribution-grid-snake.svg)
 
-## ⚡ Wizardry & Coding Spells
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
+### 🏰 Hogwarts Profile
+- 🏠 House: **Hufflepuff 🦡**  
+- 🔥 Favorite Animal: **Phoenix**  
+- ✨ Favorite Spell: *Expecto Patronum!*  
+- ⚡ Hidden Talent: *Summoning fire into my codebase*  
 
-<img src="https://raw.githubusercontent.com/ItzMaximee/ItzMaximee/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://media.tenor.com/2J8KfW2pY0sAAAAC/hello-there-obi-wan.gif" width="250">
+</p>
 
-<img align="right" height="179" src="https://c.tenor.com/opEBWw0uddoAAAAd/tenor.gif" />
-
-## 🏰 Hogwarts Profile
-- House: **Hufflepuff** 🦡  
-- Favorite Animal: Phoenix 🐦‍🔥  
-- Favorite Spell: *Expecto Patronum!*  
-- Hidden Talent: Summoning fire into my codebase  
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzMaximee.ItzMaximee&left_color=black&right_color=darkred&left_text=Number%20of%20%20Joe%20Goldbergs%20on%20my%20acc"  />
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/4f5C5C1KX9IAAAAC/naruto-laugh.gif" width="250">
+</p>
